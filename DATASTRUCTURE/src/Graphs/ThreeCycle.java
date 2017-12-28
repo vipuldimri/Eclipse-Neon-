@@ -46,7 +46,8 @@ public class ThreeCycle
 			U[i]=sc.nextInt();	
 		}
 		
-		solve(n,m,U,V);
+		System.out.println("abhe solve krna h ye ");
+		//solve(n,m,U,V);
 		
 	}
 
