@@ -22,7 +22,7 @@ public class CodingNinja
 					//System.out.println("hello");
 					checkpath(arr,N,M,i,j,visited,code,index);
 				}
-				
+				//sout
 			}
 			if(ans==true)
 			{
